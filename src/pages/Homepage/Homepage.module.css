@@ -96,10 +96,6 @@
   text-transform: capitalize;
 }
 
-.options_drop:hover {
-  /* background-color: var(--fifth-neutral-color); */
-}
-
 .loading_container {
   width: 100%;
   display: flex;
