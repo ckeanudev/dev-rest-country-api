@@ -34,7 +34,7 @@ const Homepage = ({ darkMode, setViewCountry, setViewCountryData }) => {
   }, [dropdownDisplay]);
 
   const filteredCountryList = allCountry.filter((data) => {
-    return data.name.official.toLowerCase().includes(searchInput.toLowerCase());
+    return data.name.common.toLowerCase().includes(searchInput.toLowerCase());
   });
 
   return (
