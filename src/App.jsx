@@ -33,7 +33,7 @@ function App() {
         />
       )}
 
-      <Footer darkMode={darkMode} />
+      {/* <Footer darkMode={darkMode} /> */}
     </div>
   );
 }
