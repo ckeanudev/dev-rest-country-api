@@ -1,0 +1,24 @@
+:root {
+  --first-neutral-color: #2b3945;
+  --second-neutral-color: #202c37;
+  --third-neutral-color: #111517;
+  --fourth-neutral-color: #858585;
+  --fifth-neutral-color: #fafafa;
+  --sixth-neutral-color: #ffffff;
+}
+
+footer {
+  padding: 1rem 1rem 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer p {
+  font-size: 0.9rem;
+}
+
+.footer a {
+  font-size: 0.9rem;
+  text-decoration: none;
+}

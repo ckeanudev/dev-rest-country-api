@@ -1,0 +1,20 @@
+:root {
+  --first-neutral-color: #2b3945;
+  --second-neutral-color: #202c37;
+  --third-neutral-color: #111517;
+  --fourth-neutral-color: #858585;
+  --fifth-neutral-color: #fafafa;
+  --sixth-neutral-color: #ffffff;
+}
+
+* {
+  padding: 0;
+  margin: 00;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+/* body {
+  background-color: var(--fifth-neutral-color);
+} */
